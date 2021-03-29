@@ -1,0 +1,280 @@
+nav {
+    padding-left: 62px;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,.05);
+}
+.nav {
+    text-transform: capitalize;
+}
+.navbar-brand {
+    font-size: 40px;
+}
+.nav-item {
+    cursor: pointer;
+    margin-left: 12px;
+    font-weight: bolder;
+    color: black !important;
+}
+
+ .child {
+     margin-left: 17px;
+     font-weight: lighter;
+     clear: none;
+}
+
+/* .drop-nav{
+    height: 200px !important;
+    overflow-y: auto;
+    
+} */
+
+
+.nav-item:hover {
+    border-bottom: .3rem solid #ee5f73;
+}
+ .form-search {
+    padding-left: 280px;
+}
+.form-control {
+    width: 373px;
+    height: 45px;
+    border: none;
+    background-color: #f5f5f6;
+}
+.form-control:focus {
+    border: .1rem solid #f5f5f6 ;
+    box-shadow: none;
+}
+/* .search {
+    position: absolute;
+    top: 0 !important;
+    right: 580px;
+    height: 1px !important;
+} */
+.profile {
+    cursor: text;
+}
+
+/*********************************** Home *****************************************************/
+  
+.carousel {
+    padding-top: 20px;
+    height: 360px;
+    width: auto;
+}
+
+
+/********************************************Admin Panel **************************************/
+
+.form {
+    display: flex;
+    justify-content: center;
+    }
+  
+
+.admin-links {
+    margin-bottom: 20px;
+}
+
+.admin-panel {
+    height: 100vh;
+}
+
+.admin-link-div {
+    background-color: rgb(243, 237, 237);
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,.05);
+    padding-top: 20px;
+}
+
+.admin-body {
+    padding-top: 100px;
+
+}
+
+body button {
+    background-color: #ff3e6c;
+}
+
+html a {
+    color: rgb(94, 88, 88);
+}
+
+html a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.admin-panel a {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.admin-sidebar {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.admin-sidebar:hover {
+    background-color: wheat;
+}
+
+#components-layout-demo-fixed-sider .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+
+  aside.ant-layout-sider {
+      width: 260px !important;
+      max-width: 260px !important;
+  }
+  
+ .nav-row:nth-last-child() {
+     margin-right: 100px;
+
+ }
+
+ body table {
+     border: 20px solid black;
+ }
+
+
+ .subCat-table {
+     border: 1px solid black;
+     margin-bottom: 0;
+ }
+
+
+ /*********************************** Create Products ******************************************/
+
+
+ div.ant-select-tree-list-holder {
+     max-height: 256px !important;
+     overflow-y: scroll !important;
+     overflow-anchor: none !important;
+     
+}
+
+div.ant-select-tree-list-scrollbar {
+    display: none !important;
+}
+
+div.rc-virtual-list-scrollbar {
+    display: none;
+}
+
+div.rc-virtual-list-holder {
+    max-height: 256px !important;
+    overflow-y: scroll !important;
+    overflow-anchor: none !important;
+}
+
+.edit-form {
+    background-color: white !important;
+}
+
+.edit-form .form-control {
+    width: 70%;
+    height: 45px;
+    border: 1px solid black;
+    margin-bottom: 16px;
+}
+.edit-form .form-control:focus {
+    box-shadow: none;
+}
+
+.edit-form .files {
+    border: 1px solid black;
+}
+
+.edit-form .ant-select-selector {
+    margin-left: 0 !important;
+}
+
+
+
+.ant-image-preview-operations {
+    background: transparent !important;
+    background-color:black !important;
+}
+
+
+.ant-carousel {
+    height: 300px;
+}
+
+.product-btn > .ant-btn-lg {
+    width: 221px;
+    height: 54px !important;
+    background: #ff3e6c !important;
+    color: white !important;
+}
+
+.product-btn-wishlist {
+    width: 180px;
+    height: 56px !important;
+    /* background: lightgray !important; */
+    color: black !important;
+    margin-bottom: 20px;
+
+}
+
+.delivery .ant-input-lg {
+    width: 240px !important;
+}
+.delivery p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.cart .row {
+    --bs-gutter-x: 0rem;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+  
+  .dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+      pointer-events: none;
+  }
+
+  .ant-form-item-required {
+      margin-right: 40px;
+  }
+
+  .ant-spin {
+      color: #ff3e6c !important;
+  }
+
+  .login .ant-form-item-label > label {
+      padding-right: 100px !important;
+  }
+
+  .navMenu .ant-menu-item.ant-menu-item-only-child {
+      padding-bottom: 28px !important;
+      height: 4vh !important;
+ }
+
+ .navMenu .ant-menu-item-selected a, .ant-menu-item-selected a:hover {
+    color: black !important;
+    background: white !important;
+}
+.navMenu .ant-menu-item-selected, .ant-menu-item-selected:hover {
+    background: white !important;
+}
+
+.navMenu .ant-menu-item a:hover {
+    color: black !important;
+}
+
+.ant-upload-list-item-error .ant-upload-list-item-name {
+    color: black !important;
+}
+
+
+
+

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57bdff4e.chunk.css",
+    "main.js": "/static/js/main.56dfbf5a.chunk.js",
+    "main.js.map": "/static/js/main.56dfbf5a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4988a4a4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4988a4a4.js.map",
+    "static/css/2.ea58a6a8.chunk.css": "/static/css/2.ea58a6a8.chunk.css",
+    "static/js/2.9d026c9c.chunk.js": "/static/js/2.9d026c9c.chunk.js",
+    "static/js/2.9d026c9c.chunk.js.map": "/static/js/2.9d026c9c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ea58a6a8.chunk.css.map": "/static/css/2.ea58a6a8.chunk.css.map",
+    "static/css/main.57bdff4e.chunk.css.map": "/static/css/main.57bdff4e.chunk.css.map",
+    "static/js/2.9d026c9c.chunk.js.LICENSE.txt": "/static/js/2.9d026c9c.chunk.js.LICENSE.txt",
+    "static/media/17c7a23a045e30cbd8a8b7afd4c89d9b-shopping-discount-poster-design.559dbb51.jpg": "/static/media/17c7a23a045e30cbd8a8b7afd4c89d9b-shopping-discount-poster-design.559dbb51.jpg",
+    "static/media/6d6370077521e3716da9cfef15c0a7d1.7790da66.jpg": "/static/media/6d6370077521e3716da9cfef15c0a7d1.7790da66.jpg",
+    "static/media/Coupon-Banner.a959cd54.jpg": "/static/media/Coupon-Banner.a959cd54.jpg",
+    "static/media/Deal-Post-Banner.3a02b1e2.jpg": "/static/media/Deal-Post-Banner.3a02b1e2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4988a4a4.js",
+    "static/css/2.ea58a6a8.chunk.css",
+    "static/js/2.9d026c9c.chunk.js",
+    "static/css/main.57bdff4e.chunk.css",
+    "static/js/main.56dfbf5a.chunk.js"
+  ]
+}
